@@ -1,0 +1,12 @@
+# fetched vendor firmware and decrypted images — not redistributed
+out/
+catalog/
+*.bin
+*.enc.bin
+*.hex
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
